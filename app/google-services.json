@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "347812590550",
+    "project_id": "twitter-proto",
+    "storage_bucket": "twitter-proto.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:347812590550:android:683c5fd406c62bfe3faa77",
+        "android_client_info": {
+          "package_name": "com.example.twitter_proto"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "347812590550-0f8v98ogh3rvrorsp2b84hpettkrkgdv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD4NwGRNp4DUfiBNJ-qQxT9LPR9ptNV7fw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "347812590550-0f8v98ogh3rvrorsp2b84hpettkrkgdv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
